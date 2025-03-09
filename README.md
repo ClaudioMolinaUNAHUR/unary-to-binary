@@ -123,17 +123,17 @@ Ejemplo con número 11111 (_4_ en decimal o lo que es lo mismo _100_ binario):
   ![picture 0](./resources/comprobaciones.jpg)
 - **Tabla con x10 inputs**:
   |n (decimal) | Conf. inicial | Conf. final | Pasos | Espacios | Estado |
-  |----| ------- | --- | ------- | --- |-----|
-  |0 | 1 | 0 | 2 | 2 | Aceptado |
-  |1 | 11 | 1 | 4 | 3 |Aceptado |
-  |2 | 111 | 10 | 7 | 4 |Aceptado |
-  |3 | 1111 | 11 | 33 | 7 |Aceptado |
-  |4 | 11111| 100 | 64 | 9 |Aceptado |
-  |5 | 111111 | 101 | 65 | 10 |Aceptado |
-  |6 | 1111111 | 110 | 77 | 11 |Aceptado |
-  |7 | 11111111 | 111 | 78 | 12 |Aceptado |
-  |8 | 111111111 | 1000 | 122 | 14 |Aceptado |
-  |9 | 1111111111 | 1001 | 123 | 15 |Aceptado |
+  | --- | --- | --- | --- | --- | --- |
+  | 0 | 1 | 0 | 2 | 2 | Aceptado |
+  | 1 | 11 | 1 | 4 | 3 | Aceptado |
+  | 2 | 111 | 10 | 7 | 4 | Aceptado |
+  | 3 | 1111 | 11 | 33 | 7 | Aceptado |
+  | 4 | 11111| 100 | 64 | 9 | Aceptado |
+  | 5 | 111111 | 101 | 65 | 10 | Aceptado |
+  | 6 | 1111111 | 110 | 77 | 11 | Aceptado |
+  | 7 | 11111111 | 111 | 78 | 12 | Aceptado |
+  | 8 | 111111111 | 1000 | 122 | 14 | Aceptado |
+  | 9 | 1111111111 | 1001 | 123 | 15 | Aceptado |
 
 - **Programa Simulator**: [Programa Simulator](https://turingmachinesimulator.com/shared/jlyefvhecl)
 - **Programa Prolog**: [Programa Prolog](./resources/unary-to-binary.pl)
